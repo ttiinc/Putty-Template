@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/ttiinc/.dotfiles/master/img/TTI_Avatar_tiny.png" align="left" width="135px" height="135px" />
 
-### prepare_RHEL by TTI, Inc. European Infrastructure Team
-> *A script for quick and easy setup/configuration*
+### Putty-Template by TTI, Inc. European Infrastructure Team
+> *A solarized light Putty Template*
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
